@@ -119,6 +119,13 @@ _Figure 7 Anti-aliased Scene rendered at 50% window resolution(1080p) and upscal
 
 _Figure 8 Anti-aliased Scene rendered at 50% window resolution(1080p) and upscaled using FSR upscaling_
 
+Video
+
+
+https://user-images.githubusercontent.com/16291248/210264331-4e14220a-8863-4acb-af71-daa54b7ef67b.mp4
+
+
+
 How to use your implementation
 
 1. Compile the PCSS.cpp file, cyCodeBase must be present in the include path
